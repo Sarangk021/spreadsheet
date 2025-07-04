@@ -31,13 +31,13 @@ This project is a front-end-only React prototype designed to replicate a spreads
 
 ---
 
-## 📌 Project Objective
+## Project Objective
 
 To build a pixel-perfect spreadsheet UI experience using React and Tailwind CSS, closely replicating the given design and behavior. This assignment is part of an internship evaluation process.
 
 ---
 
-## ✨ Features Implemented
+## Features Implemented
 
 - Accurate column headers with matching icons and layout
 - Some icons differ slightly from Figma. The structure and functionality remain consistent
@@ -54,7 +54,7 @@ To build a pixel-perfect spreadsheet UI experience using React and Tailwind CSS,
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 - React 18 (CRA)
 - TypeScript (Strict Mode)
@@ -65,14 +65,14 @@ To build a pixel-perfect spreadsheet UI experience using React and Tailwind CSS,
 
 ---
 
-## 🚀 Live Demo & Repository
+## Live Demo & Repository
 
-- 🔗 **Live URL**: [Visit Live App on Vercel](https://your-vercel-link.vercel.app)
-- 🗂️ **GitHub Repo**: [github.com/yourusername/spreadsheet](https://github.com/yourusername/react-spreadsheet)
+-  **Live URL**: [Visit Live App on Vercel](https://your-vercel-link.vercel.app)
+-  **GitHub Repo**: [github.com/Sarangk021/spreadsheet](https://github.com/Sarangk021/spreadsheet)
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -83,7 +83,7 @@ To build a pixel-perfect spreadsheet UI experience using React and Tailwind CSS,
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/react-spreadsheet.git
+git clone https://github.com/Sarangk021/spreadsheet.git
 
 # Navigate to the project
 cd spreadsheet
