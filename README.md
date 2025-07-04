@@ -67,7 +67,7 @@ To build a pixel-perfect spreadsheet UI experience using React and Tailwind CSS,
 
 ## Live Demo & Repository
 
--  **Live URL**: [Visit Live App on Vercel](https://your-vercel-link.vercel.app)
+-  **Live URL**: [Visit Live App on Vercel](https://spreadsheet-sarangk021s-projects.vercel.app/)
 -  **GitHub Repo**: [github.com/Sarangk021/spreadsheet](https://github.com/Sarangk021/spreadsheet)
 
 ---
